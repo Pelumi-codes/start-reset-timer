@@ -1,0 +1,30 @@
+body {
+  font-size: 18px;
+  background-color: rgb(208, 216, 208);
+  text-align: center;
+  color: #fff;
+}
+
+p {
+  align-items: center;
+  justify-content: center;
+  margin: 100px auto;
+  font-size: 60px;
+  text-shadow: 3px 4px 4px rgb(29, 9, 9);
+  height: 30%;
+  width: 30%;
+  padding: 80px;
+  box-shadow: 3px 4px 4px rgb(189, 90, 90);
+  background-color: rgb(182, 139, 139);
+  border-radius: 5%;
+}
+
+Button {
+  background-color: rgb(182, 89, 89);
+  color: honeydew;
+  font-size: larger;
+  width: 10%;
+  margin-right: 15px;
+  border-color: rgb(252, 0, 42);
+  padding: 20px;
+}
